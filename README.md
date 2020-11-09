@@ -1,4 +1,9 @@
 # GridKer
+<img src="images/plain.PNG">
+
+
+<img src= "images/filled.PNG">
+
 
 ## Project setup
 ```
