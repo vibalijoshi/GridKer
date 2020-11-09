@@ -1,4 +1,4 @@
-# vue-color-picker
+# GridKer
 
 ## Project setup
 ```
