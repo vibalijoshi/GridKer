@@ -1,4 +1,7 @@
 # GridKer
+It is color picker that I made using my newest skill, Vue.js. 
+It is a color picker and color grid where you can use each pixel to create Pixel Art.
+
 <img src="images/plain.PNG">
 
 
